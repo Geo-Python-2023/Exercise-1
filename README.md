@@ -2,7 +2,7 @@
 
 In the “Taste of Python” lesson this week we have learned a few basic things in Python. Now you get your chance to demonstrate your skills. For this lesson, please do the following:
 
-1. Open Jupyter lab from the [Exercise 1 landing page](https://geo-python.github.io/2018/lessons/L1/exercise-1.html) on the course site, and create a new notebook.
+1. Open Jupyter lab from the [Exercise 1 landing page](https://geo-python.github.io/2018/lessons/L1/exercise-1.html#part-2-cooking-up-some-python) on the course site, and create a new notebook.
 
 2. Inside the notebook, create a character string variable called `name` and use it to store your first- and lastname in a single string.
 
