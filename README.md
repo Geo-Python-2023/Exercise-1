@@ -54,7 +54,7 @@ The next step is to investigate the kinds of data we're working with. In another
 
 ## Problem 5 - Displaying text on the screen
 
-Use your Python skills to generate output on the screen similar to that below. Use one command to generate each line of output.
+Finally, you can use your Python skills to generate output on the screen similar to that below. Use one command to generate each line of output.
 
 ```
 My name is Dave and I give eating ice cream a score of 9 out of 10!
