@@ -2,7 +2,7 @@
 
 In the “Taste of Python” lesson this week we have learned a few basic things in Python. Now you get your chance to demonstrate your skills.
 
-This exercise is inspired by an analysis that determined [Finland is the world's happiest country](https://www.weforum.org/agenda/2019/03/finland-is-the-world-s-happiest-country-again/). As the instructors of the Geo-Python course, we think we've found a better way to assess the individual happiness of people in Finland (particularly those taking this course!), and we're going to test our idea with you. In *five easy steps (problems)* we'll be able to reveal your happiness based on two of life's most important happiness factors: Ice cream and sleep!
+This exercise is inspired by an analysis that determined [Finland is the world's happiest country](https://www.weforum.org/agenda/2019/03/finland-is-the-world-s-happiest-country-again/). As the instructors of the Geo-Python course, we think we've found a better way to assess the individual happiness of people in Finland (particularly those taking this course!), and we're going to test our idea with you. In *five easy steps (or problems)* we'll be able to reveal your happiness based on two of life's most important happiness factors: Ice cream and sleep!
 
 ## Problem 0 - Creating your own Jupyter notebook
 
