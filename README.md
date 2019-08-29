@@ -48,7 +48,7 @@ The next step is to investigate the kinds of data we're working with. In another
 
 3. Did all of the data types make sense? Were there any data types that were different than you expected? In the new Python cell that appeared after running the code above, enter your responses to the questions above.
 
-4. For the cell containing your answers, change the kind of cell from **Code** to **Markdown**.
+4. For the cell containing your answers to the questions above, change the kind of cell from **Code** to **Markdown**.
 
 5. Run the Markdown cell by pressing **Shift-Enter**.
 
