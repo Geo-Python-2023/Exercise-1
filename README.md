@@ -1,6 +1,6 @@
 # Exercise-1
 
-## Problem 1 - Creating your own Jupyter notebook
+## Problem 1 - The appetizer: Creating your own Jupyter notebook
 
 In the “Taste of Python” lesson this week we have learned a few basic things in Python. Now you get your chance to demonstrate your skills. For this lesson, please do the following:
 
@@ -22,3 +22,7 @@ I am Dave Whipp and my sleeping enjoyment index is 0.99 out of 1.0!
 Note that your code should replace “Dave Whipp” with the contents of your `my_name` variable, and “9” with your value stored in the variable `ice_cream_rating`, and "0.99" with your value stored in the variable `sleeping_index`.
 
 Upload your changes to GitHub in your **own** Exercise 1 repository that you created using the GitHub Classroom link.
+
+## Problem 2 - The main course: More practive with Python
+
+For this problem, you can make changes to the [Jupyter notebook for Problem 2]().
