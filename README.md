@@ -59,7 +59,7 @@ Use your Python skills to generate output on the screen similar to that below. U
 ```
 My name is Dave and I give eating ice cream a score of 9 out of 10!
 I am Dave Whipp and my sleeping enjoyment rating is 8 / 10!
-Based on the factors above, my happiness rating is 8.5 out of 10, or 85 %!
+Based on the factors above, my happiness rating is 8.5 out of 10, or 85.0 %!
 ```
 
 Note that your code should replace “Dave” with the contents of your `first_name` variable, “9” with your value stored in the variable `ice_cream_rating`, etc. For your equivalent text with the full name (e.g., "Dave Whipp"), you can either use the values from the variables `first_name` and `last_name`, or the value in variable `my_name`.
