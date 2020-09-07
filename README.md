@@ -11,7 +11,7 @@ This exercise is inspired by an analysis that determined [Finland is the world's
 
 ## Problem 0 - Creating your own Jupyter notebook
 
-Open Jupyter lab from the [Exercise 1 landing page](https://geo-python.github.io/site/lessons/L1/exercise-1.html#part-2-cooking-up-some-python) on the course site, and create a new notebook.
+Open Jupyter lab from the [Exercise 1 landing page](https://geo-python-site.readthedocs.io/en/latest/lessons/L1/exercise-1.html#part-3-cooking-up-some-python) on the course site, and create a new notebook.
 
 ## Problem 1 - Defining some variables
 
