@@ -1,7 +1,4 @@
-
-
-
-_Dear students! Please also fill in the **Geo-Python/AutoGIS pre-course survey: https://elomake.helsinki.fi/lomakkeet/106368/lomake.html**.  Your responses will help shape how we teach this fall._
+_Dear students! Please also fill in the **Geo-Python/AutoGIS pre-course survey: https://elomake.helsinki.fi/lomakkeet/113224/lomake.html**.  Your responses will help shape how we teach this fall._
 
 # Exercise 1: Cooking up some Python
 
