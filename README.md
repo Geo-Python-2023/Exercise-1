@@ -1,16 +1,18 @@
-_Dear students! Please also fill in the **Geo-Python/AutoGIS pre-course survey: https://elomake.helsinki.fi/lomakkeet/119154/lomake.html**.  Your responses will help shape how we teach this fall._
-
 # Exercise 1: Cooking up some Python
 
 In the “Taste of Python” lesson this week we have learned a few basic things in Python. Now you get your chance to demonstrate your skills.
 
 This exercise is inspired by an analysis that determined [Finland is the world's happiest country](https://www.weforum.org/agenda/2019/03/finland-is-the-world-s-happiest-country-again/). As the instructors of the Geo-Python course, we think we've found a better way to assess the individual happiness of people in Finland (particularly those taking this course!), and we're going to test our idea with you. In *five easy steps (or problems)* we'll be able to reveal your happiness based on two of life's most important happiness factors: Ice cream and sleep!
 
-## Problem 0 - Creating your own Jupyter notebook
+## Problem 0 - Filling out the pre-course survey
 
-Open Jupyter lab from the [Exercise 1 landing page](https://geo-python-site.readthedocs.io/en/latest/lessons/L1/exercise-1.html#part-3-cooking-up-some-python) on the course site, and create a new notebook.
+Before you get started with the exercise, we ask that you **please fill out the Geo-Python/AutoGIS pre-course survey at https://elomake.helsinki.fi/lomakkeet/125237/lomake.html**. Your responses will help shape how we teach this autumn!
 
-## Problem 1 - Defining some variables
+## Problem 1 - Creating your own Jupyter notebook
+
+Open Jupyter lab from the [Exercise 1 landing page](https://geo-python-site.readthedocs.io/en/latest/lessons/L1/exercise-1.html#part-3-cooking-up-some-python) on the course site and create a new notebook.
+
+## Problem 2 - Defining some variables
 
 In the top cell of the new notebook:
 
@@ -18,9 +20,9 @@ In the top cell of the new notebook:
 
 2. Create another variable called `sleeping_rating` and use it to store another integer between 0 and 10 that reflects your opinion about how much you enjoy sleeping.
 
-3. Run the cell by pressing **Shift-Enter**.
+3. Run the cell by pressing **Shift-Enter**. <kbd>Shift</kbd> + <kbd>Enter</kbd>
 
-## Problem 2 - Reading in variable values
+## Problem 3 - Reading in variable values
 
 In the new cell that appears:
 
